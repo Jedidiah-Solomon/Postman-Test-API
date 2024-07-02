@@ -1,0 +1,19 @@
+[
+  {
+    "id": 6,
+    "custom_id": "1/mandis/2022",
+    "title": "Apple Giver",
+    "author": "Jedidiah Solomon",
+    "imgUrl": "https://via.placeholder.com/150",
+    "publication": {
+      "publisher": "Bathphage Computer Center",
+      "year": "2022",
+      "location": "Lagos"
+    },
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance"
+    ]
+  }
+]
